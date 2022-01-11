@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SeshuYaswanth
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning python, ux/ui.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python, frontend.
 - 📫 How to reach me seshuyaswanthreddy01@gmail.com
 - 
 
