@@ -15,6 +15,9 @@ Hello, fellow developers! I'm Seshu Yaswanth, a dedicated and creative Full Stac
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SeshuYaswanth&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SeshuYaswanth&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
