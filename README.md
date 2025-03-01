@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, fellow developers! I'm Seshu Yaswanth, a dedicated and creative Full Stack Web Developer with a strong passion for crafting robust and user-friendly web applications. With a blend of front-end and back-end expertise, I strive to deliver innovative solutions that make a meaningful impact on users' lives.
+Hello, fellow developers! I'm Seshu Yaswanth, a dedicated and creative front end Developer with a strong passion for crafting robust and user-friendly web applications. With a blend of front-end and back-end expertise, I strive to deliver innovative solutions that make a meaningful impact on users' lives.
 
 
 ## 🌐 Socials:
